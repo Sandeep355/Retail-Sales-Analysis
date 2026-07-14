@@ -35,13 +35,13 @@ This project analyzes retail sales data using **Python, SQL, and Power BI**. It 
 ```text
 Retail-Sales-Analysis/
 │
-├── data/
+├── dataset/
 ├── notebooks/
 ├── sql/
-├── powerbi/
+├── powerbi dashboard/
 ├── images/
 ├── README.md
-└── requirements.txt
+└── venv
 ```
 
 ## 👨‍💻 Author
