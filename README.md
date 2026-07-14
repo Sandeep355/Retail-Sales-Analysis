@@ -23,6 +23,9 @@ This project analyzes retail sales data using **Python, SQL, and Power BI**. It 
 - Top 10 Customers
 - Interactive Slicers
 
+- ## 📷 Dashboard Preview
+![Retail Sales Dashboard](images/dashboard.png)
+
 ## 🔍 Business Insights
 - Identified top-performing product categories.
 - Compared regional profit performance.
